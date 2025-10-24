@@ -7,7 +7,7 @@ header_pages:
 author: Microsoft Learning
 twitter_username: mslearning
 github_username: MicrosoftLearning
-title: DevOps and Platform Engineering
+title: GitHub Learning Paths Exercises
 plugins:
   - jekyll-sitemap
   - jekyll-mentions

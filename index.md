@@ -9,6 +9,8 @@ layout: home
 
 The following exercises are designed to provide you with a hands-on learning experience where you'll explore common tasks GitHub users perform when collaborating on projects.
 
+> **Important**: These exercises are focused on using GitHub as a collaboration platform. While some tasks may involve Azure resources, the primary focus is on GitHub workflows and best practices. If you don't have one GitHub account, you can create one for free at [GitHub](https://github.com/).
+
 > **Note**: To complete the exercises, you'll need an Azure subscription in which you have sufficient permissions and quota to provision the necessary Azure resources. If you don't already have one, you can sign up for an [Azure account](https://azure.microsoft.com/free).
 
 Some exercises may have additional, or different, requirements. Those will contain a **Before you start** section specific to that exercise.
