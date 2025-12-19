@@ -20,7 +20,7 @@ Some exercises may have additional, or different, requirements. Those will conta
 {% assign exercises = site.pages | where_exp:"page", "page.url contains '/Instructions'" %}
 {% assign exercises = exercises | where_exp:"page", "page.lab.topic != null" %}
 {% assign grouped_exercises = exercises | group_by: "lab.topic" %}
-{% assign topic_order = "Basic,Intermediate,Advanced" | split: "," %}
+{% assign topic_order = "GH-900,GH-100,GH-200,GH-300,GH-500" | split: "," %}
 {% assign sorted_groups = "" | split: "" %}
 {% for topic in topic_order %}
 {% assign matching_group = grouped_exercises | where: "name", topic | first %}
