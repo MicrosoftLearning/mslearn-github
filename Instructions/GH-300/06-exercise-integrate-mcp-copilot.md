@@ -37,7 +37,7 @@ In this exercise, you'll learn to integrate MCP with GitHub Copilot.
 
 The exercise consists of the following activities:
 
-1. Start a web browser and navigate to the exercise page: [https://learn.microsoft.com/en-us/training/modules/mcp-server/5-exercise-integrate-github-copilot](https://learn.microsoft.com/en-us/training/modules/mcp-server/5-exercise-integrate-github-copilot)
+1. Start a web browser and navigate to the exercise page: [https://github.com/skills/integrate-mcp-with-copilot/](https://github.com/skills/integrate-mcp-with-copilot/)
 
 1. Follow the instructions provided in the exercise to complete all challenges.
 

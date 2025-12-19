@@ -37,7 +37,7 @@ In this exercise, you'll learn to develop unit tests using GitHub Copilot.
 
 The exercise consists of the following activities:
 
-1. Start a web browser and navigate to the exercise page: [https://learn.microsoft.com/en-us/training/modules/develop-unit-tests-using-github-copilot-tools/6-exercise-develop-unit-tests-github-copliot1](https://learn.microsoft.com/en-us/training/modules/develop-unit-tests-using-github-copilot-tools/6-exercise-develop-unit-tests-github-copliot1)
+1. Start a web browser and navigate to the exercise page: [https://microsoftlearning.github.io/mslearn-github-copilot-dev/Instructions/Labs/LAB_AK_04_develop_unit_tests_xunit.html](https://microsoftlearning.github.io/mslearn-github-copilot-dev/Instructions/Labs/LAB_AK_04_develop_unit_tests_xunit.html)
 
 1. Follow the instructions provided in the exercise to complete all challenges.
 

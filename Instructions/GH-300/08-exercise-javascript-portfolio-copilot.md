@@ -37,7 +37,7 @@ In this exercise, you'll update a JavaScript portfolio using GitHub Copilot.
 
 The exercise consists of the following activities:
 
-1. Start a web browser and navigate to the exercise page: [https://learn.microsoft.com/en-us/training/modules/introduction-copilot-javascript/5-exercise-javascript-portfolio](https://learn.microsoft.com/en-us/training/modules/introduction-copilot-javascript/5-exercise-javascript-portfolio)
+1. Start a web browser and navigate to the exercise page: [https://learn.microsoft.com/training/modules/introduction-copilot-javascript/5-exercise-javascript-portfolio](https://learn.microsoft.com/training/modules/introduction-copilot-javascript/5-exercise-javascript-portfolio)
 
 1. Follow the instructions provided in the exercise to complete all challenges.
 

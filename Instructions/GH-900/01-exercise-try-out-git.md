@@ -35,7 +35,7 @@ In this exercise, you'll complete a series of guided challenges on GitHub to lea
 
 The exercise consists of the following activities:
 
-1. Start a web browser and navigate to the exercise page: [https://learn.microsoft.com/en-us/training/modules/intro-to-git/2-exercise-configure-git?ns-enrollment-type=learningpath&ns-enrollment-id=learn.github-foundations](https://learn.microsoft.com/en-us/training/modules/intro-to-git/2-exercise-configure-git?ns-enrollment-type=learningpath&ns-enrollment-id=learn.github-foundations)
+1. Start a web browser and navigate to the exercise page: [https://github.com/skills/introduction-to-git](https://github.com/skills/introduction-to-git)
 
 1. On the exercise page, select the **Start the exercise on GitHub** button. This will take you to a public GitHub template repository.
 

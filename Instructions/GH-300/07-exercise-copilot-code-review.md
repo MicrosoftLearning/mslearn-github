@@ -37,7 +37,7 @@ In this exercise, you'll learn to use Copilot for code reviews.
 
 The exercise consists of the following activities:
 
-1. Start a web browser and navigate to the exercise page: [https://learn.microsoft.com/en-us/training/modules/code-reviews-pull-requests-github-copilot/6-exercise-github-copilot-code-review](https://learn.microsoft.com/en-us/training/modules/code-reviews-pull-requests-github-copilot/6-exercise-github-copilot-code-review)
+1. Start a web browser and navigate to the exercise page: [https://github.com/skills/copilot-code-review](https://github.com/skills/copilot-code-review)
 
 1. Follow the instructions provided in the exercise to complete all challenges.
 

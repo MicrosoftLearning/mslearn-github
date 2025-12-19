@@ -36,7 +36,7 @@ In this exercise, you'll learn about Copilot Spaces through a hands-on exercise.
 
 The exercise consists of the following activities:
 
-1. Start a web browser and navigate to the exercise page: [https://learn.microsoft.com/en-us/training/modules/introduction-copilot-spaces/4-skills-exercise](https://learn.microsoft.com/en-us/training/modules/introduction-copilot-spaces/4-skills-exercise)
+1. Start a web browser and navigate to the exercise page: [https://github.com/skills/scale-institutional-knowledge-using-copilot-spaces](https://github.com/skills/scale-institutional-knowledge-using-copilot-spaces)
 
 1. Follow the instructions provided in the exercise to complete all challenges.
 

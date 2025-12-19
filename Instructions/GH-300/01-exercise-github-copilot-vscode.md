@@ -37,7 +37,7 @@ In this exercise, you'll learn to use GitHub Copilot through a hands-on exercise
 
 The exercise consists of the following activities:
 
-1. Start a web browser and navigate to the exercise page: [https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/5-exercise](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/5-exercise)
+1. Start a web browser and navigate to the exercise page: [https://github.com/skills/getting-started-with-github-copilot](https://github.com/skills/getting-started-with-github-copilot)
 
 1. On the exercise page, select the **Start the exercise on GitHub** button to begin.
 

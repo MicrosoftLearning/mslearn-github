@@ -37,7 +37,7 @@ In this exercise, you'll learn to work with the Copilot coding agent.
 
 The exercise consists of the following activities:
 
-1. Start a web browser and navigate to the exercise page: [https://learn.microsoft.com/en-us/training/modules/github-copilot-code-agent/6-exercise-expand-team-copilot-code-agent](https://learn.microsoft.com/en-us/training/modules/github-copilot-code-agent/6-exercise-expand-team-copilot-code-agent)
+1. Start a web browser and navigate to the exercise page: [https://github.com/skills/expand-your-team-with-copilot/](https://github.com/skills/expand-your-team-with-copilot/)
 
 1. Follow the instructions provided in the exercise to complete all challenges.
 

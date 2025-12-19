@@ -37,7 +37,7 @@ In this exercise, you'll update a Python web API using GitHub Copilot.
 
 The exercise consists of the following activities:
 
-1. Start a web browser and navigate to the exercise page: [https://learn.microsoft.com/en-us/training/modules/introduction-copilot-python/5-exercise-python-web-api](https://learn.microsoft.com/en-us/training/modules/introduction-copilot-python/5-exercise-python-web-api)
+1. Start a web browser and navigate to the exercise page: [https://learn.microsoft.com/training/modules/introduction-copilot-python/5-exercise-python-web-api](https://learn.microsoft.com/training/modules/introduction-copilot-python/5-exercise-python-web-api)
 
 1. Follow the instructions provided in the exercise to complete all challenges.
 
