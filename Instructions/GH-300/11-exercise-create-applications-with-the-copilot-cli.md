@@ -1,4 +1,11 @@
-# Exercise - Create applications with the Copilot CLI
+---
+lab:
+  topic: GH-300
+  title: "Create applications with the Copilot CLI"
+  description: "Learn how to use use GitHub Copilot CLI as a standalone terminal tool to manage issues and build a Node.js calculator app"
+---
+
+# Create applications with the Copilot CLI
 
 In this exercise, you’ll learn to use GitHub Copilot CLI as a standalone terminal tool for issue management and for building a Node.js calculator application. 
 
