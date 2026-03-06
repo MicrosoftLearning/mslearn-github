@@ -29,7 +29,7 @@ To complete the lab, you need:
 - Experience with pull requests.
 - A web browser with access to the internet.
 
-## Complete the exercise on Microsoft Learn
+## Complete the exercise on GitHub
 
 In this exercise, you'll learn to use Copilot for code reviews.
 
