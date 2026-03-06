@@ -11,12 +11,11 @@ In this lab, you will learn how to use GitHub Copilot to update and enhance web 
 
 You will learn how to:
 
-- Use Copilot to understand existing API code
-- Generate new API endpoints with Copilot
-- Implement API business logic with AI assistance
-- Refactor and improve API code
-- Add error handling and validation
-- Write API tests with Copilot
+- Understand an API
+- Extend the Web AI
+- Add a new route
+- Create a test
+- Use an agent to write the documentation
 
 This lab takes approximately **45-60** minutes to complete.
 
@@ -37,7 +36,7 @@ In this exercise, you'll learn to update a web API using GitHub Copilot.
 
 The exercise consists of the following activities:
 
-1. Start a web browser and navigate to the exercise page: [https://github.com/skills/scale-institutional-knowledge-using-copilot-spaces](https://github.com/skills/scale-institutional-knowledge-using-copilot-spaces)
+1. Start a web browser and navigate to the exercise page: [Update a web API with GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/advanced-github-copilot/5-exercise-update-a-web-api?ns-enrollment-type=learningpath&ns-enrollment-id=learn.github-copilot)
 
 1. Follow the instructions provided in the exercise to complete all challenges.
 
@@ -49,11 +48,10 @@ The exercise consists of the following activities:
 
 After completing this exercise, you should be able to:
 
-- Use Copilot to understand existing code
-- Generate API endpoints with AI assistance
-- Implement business logic efficiently
-- Refactor code with Copilot suggestions
-- Add proper error handling
-- Write API tests with AI help
+- Understand an API
+- Extend the Web AI
+- Add a new route
+- Create a test
+- Use an agent to write the documentation
 
 Congratulations! You've completed the web API update exercise!
