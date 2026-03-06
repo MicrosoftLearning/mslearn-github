@@ -1,4 +1,4 @@
-# Exercise - Customize your GitHub Copilot experience
+# Customize your GitHub Copilot experience
 
 In this exercise, you’ll customize GitHub Copilot’s behavior with custom instructions, prompts, and custom agents for your specific development workflows. 
 
