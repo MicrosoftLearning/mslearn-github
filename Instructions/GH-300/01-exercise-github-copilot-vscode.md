@@ -29,7 +29,7 @@ To complete the lab, you need:
 - Basic programming knowledge (any language).
 - A web browser with access to the internet.
 
-## Complete the exercise on Microsoft Learn
+## Complete the exercise on Codespaces
 
 In this exercise, you'll learn to use GitHub Copilot through a hands-on exercise that guides you through installation and usage.
 
@@ -37,7 +37,7 @@ In this exercise, you'll learn to use GitHub Copilot through a hands-on exercise
 
 The exercise consists of the following activities:
 
-1. Start a web browser and navigate to the exercise page: [https://github.com/skills/getting-started-with-github-copilot](https://github.com/skills/getting-started-with-github-copilot)
+1. Start a web browser and navigate to the exercise page: [Set up GitHub Copilot to work with Visual Studio Code](https://learn.microsoft.com/en-us/training/modules/advanced-github-copilot/3-exercise-setup?ns-enrollment-type=learningpath&ns-enrollment-id=learn.github-copilot)
 
 1. On the exercise page, select the **Start the exercise on GitHub** button to begin.
 
