@@ -11,14 +11,11 @@ In this lab, you will learn how to use GitHub Copilot to generate comprehensive 
 
 You will learn how to:
 
-- Generate unit tests with GitHub Copilot
-- Create test cases for different scenarios
-- Implement test fixtures and setup code
-- Write assertions and validation logic
-- Cover edge cases and error conditions
-- Use testing best practices with AI assistance
+- Use the Chat view and Agent to create a new test class.
+- Use the Chat view and Agent mode to create unit tests.
 
-This lab takes approximately **45-60** minutes to complete.
+
+This lab takes approximately **25-35** minutes to complete.
 
 ## Before you start
 
@@ -49,11 +46,7 @@ The exercise consists of the following activities:
 
 After completing this exercise, you should be able to:
 
-- Generate unit tests with Copilot
-- Create comprehensive test scenarios
-- Implement test fixtures and setup
-- Write effective assertions
-- Cover edge cases thoroughly
-- Apply testing best practices with AI
+- Use the Chat view and Agent to create a new test class.
+- Use the Chat view and Agent mode to create unit tests.
 
 Congratulations! You've completed the unit testing exercise!
