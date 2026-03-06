@@ -1,11 +1,11 @@
 ---
 lab:
   topic: GH-300
-  title: "Democratize tribal knowledge using Copilot Spaces"
+  title: "Scale institutional knowledge using Copilot Spaces"
   description: "Learn how to use GitHub Copilot Spaces to capture, share, and democratize team knowledge across your organization."
 ---
 
-# Democratize tribal knowledge using Copilot Spaces
+# Scale institutional knowledge using Copilot Spaces
 
 In this lab, you will learn how to use GitHub Copilot Spaces to capture, share, and democratize tribal knowledge across your organization. Copilot Spaces helps teams preserve institutional knowledge and make it accessible to all team members, reducing dependency on individual experts.
 
@@ -28,7 +28,7 @@ To complete the lab, you need:
 - Basic understanding of collaboration tools.
 - A web browser with access to the internet.
 
-## Complete the exercise on Microsoft Learn
+## Complete the exercise on GitHub
 
 In this exercise, you'll learn about Copilot Spaces through a hands-on exercise.
 
