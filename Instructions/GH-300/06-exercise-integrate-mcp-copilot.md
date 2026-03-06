@@ -29,7 +29,7 @@ To complete the lab, you need:
 - Development environment with VS Code.
 - A web browser with access to the internet.
 
-## Complete the exercise on Microsoft Learn
+## Complete the exercise on GitHub
 
 In this exercise, you'll learn to integrate MCP with GitHub Copilot.
 
