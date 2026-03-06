@@ -12,11 +12,8 @@ In this lab, you will learn how to integrate the Model Context Protocol (MCP) wi
 You will learn how to:
 
 - Understand the Model Context Protocol
-- Set up MCP with GitHub Copilot
-- Connect Copilot to external data sources
-- Configure MCP servers
-- Use extended context for better suggestions
-- Troubleshoot MCP integrations
+- Set up GitHub MCP server
+- Integrate Copilot Agent Mode
 
 This lab takes approximately **45-60** minutes to complete.
 
@@ -49,11 +46,8 @@ The exercise consists of the following activities:
 
 After completing this exercise, you should be able to:
 
-- Understand Model Context Protocol
-- Set up MCP with Copilot
-- Connect external data sources
-- Configure MCP servers
-- Use extended context effectively
-- Troubleshoot MCP issues
+- Understand the Model Context Protocol
+- Set up GitHub MCP server
+- Integrate Copilot Agent Mode
 
 Congratulations! You've completed the MCP integration exercise!
