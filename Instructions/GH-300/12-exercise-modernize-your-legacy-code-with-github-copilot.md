@@ -1,9 +1,16 @@
 ---
 lab:
   topic: GH-300
-  title: "Modernize your legacy code with GitHub Copilot"
-  description: "Learn how to use modernize a legacy codebase with the help of GitHub Copilot, practicing refactoring and modernization techniques."
+  title: Modernize your legacy code with GitHub Copilot
+  description: Learn how to use modernize a legacy codebase with the help of GitHub
+    Copilot, practicing refactoring and modernization techniques.
+  duration: 22 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - GitHub
 ---
+
 # Modernize your legacy code with GitHub Copilot
 
 In this exercise, you’ll modernize a legacy codebase (from Cobol to Node.js) with the help of GitHub Copilot, practicing refactoring and modernization techniques.
