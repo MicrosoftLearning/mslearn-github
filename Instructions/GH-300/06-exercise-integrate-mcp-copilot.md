@@ -1,8 +1,14 @@
 ---
 lab:
   topic: GH-300
-  title: "Integrate MCP with GitHub Copilot"
-  description: "Learn how to integrate the Model Context Protocol (MCP) with GitHub Copilot to extend its capabilities and connect to external data sources."
+  title: Integrate MCP with GitHub Copilot
+  description: Learn how to integrate the Model Context Protocol (MCP) with GitHub
+    Copilot to extend its capabilities and connect to external data sources.
+  duration: 24 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - GitHub
 ---
 
 # Integrate MCP with GitHub Copilot
