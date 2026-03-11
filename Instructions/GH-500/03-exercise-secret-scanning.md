@@ -1,8 +1,13 @@
 ---
 lab:
   topic: GH-500
-  title: "Exercise - Introduction to secret scanning"
-  description: "Learn how to use GitHub's secret scanning to detect and prevent the exposure of sensitive credentials in your repositories."
+  title: Exercise - Introduction to secret scanning
+  description: Learn how to use GitHub's secret scanning to detect and prevent the exposure of sensitive credentials in your repositories.
+  duration: 30 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - GitHub
 ---
 
 # Exercise - Introduction to secret scanning
