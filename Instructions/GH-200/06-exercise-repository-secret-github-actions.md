@@ -1,8 +1,14 @@
 ---
 lab:
   topic: GH-200
-  title: "Exercise - Use a repository secret in a GitHub Actions workflow"
-  description: "Learn how to securely store and use sensitive information in GitHub Actions workflows using repository secrets."
+  title: Exercise - Use a repository secret in a GitHub Actions workflow
+  description: Learn how to securely store and use sensitive information in GitHub
+    Actions workflows using repository secrets.
+  duration: 26 minutes
+  level: 300
+  islab: true
+  primarytopics:
+  - GitHub
 ---
 
 # Exercise - Use a repository secret in a GitHub Actions workflow
