@@ -1,8 +1,13 @@
 ---
 lab:
   topic: GH-300
-  title: "Update a JavaScript portfolio with GitHub Copilot"
-  description: "Learn how to use GitHub Copilot to update and enhance a JavaScript portfolio website."
+  title: Update a JavaScript portfolio with GitHub Copilot
+  description: Learn how to use GitHub Copilot to update and enhance a JavaScript portfolio website.
+  duration: 24 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - GitHub
 ---
 
 # Update a JavaScript portfolio with GitHub Copilot
