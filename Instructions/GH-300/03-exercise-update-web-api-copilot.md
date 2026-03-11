@@ -1,8 +1,13 @@
 ---
 lab:
   topic: GH-300
-  title: "Update a web API with GitHub Copilot"
-  description: "Learn how to use GitHub Copilot to update and enhance web APIs efficiently."
+  title: Update a web API with GitHub Copilot
+  description: Learn how to use GitHub Copilot to update and enhance web APIs efficiently.
+  duration: 24 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - GitHub
 ---
 
 # Update a web API with GitHub Copilot
