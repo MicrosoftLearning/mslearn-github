@@ -1,8 +1,14 @@
 ---
 lab:
   topic: GH-300
-  title: "Scale institutional knowledge using Copilot Spaces"
-  description: "Learn how to use GitHub Copilot Spaces to capture, share, and democratize team knowledge across your organization."
+  title: Scale institutional knowledge using Copilot Spaces
+  description: Learn how to use GitHub Copilot Spaces to capture, share, and democratize
+    team knowledge across your organization.
+  duration: 24 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - GitHub
 ---
 
 # Scale institutional knowledge using Copilot Spaces
