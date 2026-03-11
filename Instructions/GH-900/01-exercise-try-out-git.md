@@ -1,8 +1,13 @@
 ---
 lab:
   topic: GH-900
-  title: "Exercise - Try out Git"
-  description: "Learn Git fundamentals including version control concepts, configuring your identity, creating and committing to repositories, exploring history, working with branches, and basic collaboration workflows."
+  title: Exercise - Try out Git
+  description: Learn Git fundamentals including version control concepts, configuring
+    your identity, creating and committing to repositories, exploring history, working
+    with branches, and basic collaboration workflows.
+  duration: 5 minutes
+  level: 100
+  islab: true
 ---
 
 # Exercise - Try out Git
