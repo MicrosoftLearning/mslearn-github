@@ -1,8 +1,13 @@
 ---
 lab:
   topic: GH-300
-  title: "Develop unit tests using GitHub Copilot"
-  description: "Learn how to use GitHub Copilot to generate comprehensive unit tests and improve code quality through AI-assisted testing."
+  title: Develop unit tests using GitHub Copilot
+  description: Learn how to use GitHub Copilot to generate comprehensive unit tests and improve code quality through AI-assisted testing.
+  duration: 24 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - GitHub
 ---
 
 # Develop unit tests using GitHub Copilot
