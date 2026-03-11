@@ -1,8 +1,13 @@
 ---
 lab:
   topic: GH-300
-  title: "Customize your GitHub Copilot experience"
-  description: "Learn how to customize GitHub Copilot’s behavior with custom instructions, prompts, and custom agents for your specific development workflows."
+  title: Customize your GitHub Copilot experience
+  description: Learn how to customize GitHub Copilot’s behavior with custom instructions, prompts, and custom agents for your specific development workflows.
+  duration: 22 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - GitHub
 ---
 
 # Customize your GitHub Copilot experience
