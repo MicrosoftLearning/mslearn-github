@@ -1,8 +1,13 @@
 ---
 lab:
   topic: GH-900
-  title: "Exercise - Connect the dots in a GitHub repository"
-  description: "Learn how to connect work items, link issues and pull requests, and organize your work effectively in a GitHub repository."
+  title: Exercise - Connect the dots in a GitHub repository
+  description: Learn how to connect work items, link issues and pull requests, and organize your work effectively in a GitHub repository.
+  duration: 30 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - GitHub
 ---
 
 # Exercise - Connect the dots in a GitHub repository
