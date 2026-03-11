@@ -1,8 +1,12 @@
 ---
 lab:
   topic: GH-100
-  title: "Exercise - Secure your repository's supply chain"
-  description: "Learn how to secure your repository by identifying and fixing vulnerabilities in dependencies, using Dependabot, and implementing security best practices."
+  title: Exercise - Secure your repository's supply chain
+  description: Learn how to secure your repository by identifying and fixing vulnerabilities
+    in dependencies, using Dependabot, and implementing security best practices.
+  duration: 26 minutes
+  level: 100
+  islab: true
 ---
 
 # Exercise - Secure your repository's supply chain
