@@ -1,8 +1,14 @@
 ---
 lab:
   topic: GH-200
-  title: "Exercise - Create the CI workflow on GitHub"
-  description: "Learn how to create a Continuous Integration (CI) workflow using GitHub Actions to automatically build and test your code."
+  title: Exercise - Create the CI workflow on GitHub
+  description: Learn how to create a Continuous Integration (CI) workflow using GitHub
+    Actions to automatically build and test your code.
+  duration: 26 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - GitHub
 ---
 
 # Exercise - Create the CI workflow on GitHub
