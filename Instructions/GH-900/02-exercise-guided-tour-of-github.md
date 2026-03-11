@@ -1,8 +1,14 @@
 ---
 lab:
   topic: GH-900
-  title: "Exercise - A guided tour of GitHub"
-  description: "Get started using GitHub in less than an hour. Learn about repositories, branches, commits, and pull requests."
+  title: Exercise - A guided tour of GitHub
+  description: Get started using GitHub in less than an hour. Learn about repositories,
+    branches, commits, and pull requests.
+  duration: 60 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - GitHub
 ---
 
 # Exercise - A guided tour of GitHub
