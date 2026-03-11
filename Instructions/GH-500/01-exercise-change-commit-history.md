@@ -1,8 +1,11 @@
 ---
 lab:
   topic: GH-500
-  title: "Exercise - Change commit history"
-  description: "Learn how to modify commit history using Git commands like rebase, amend, and squash to maintain a clean project history."
+  title: Exercise - Change commit history
+  description: Learn how to modify commit history using Git commands like rebase, amend, and squash to maintain a clean project history.
+  duration: 26 minutes
+  level: 100
+  islab: true
 ---
 
 # Exercise - Change commit history
