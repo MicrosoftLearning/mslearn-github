@@ -1,8 +1,15 @@
 ---
 lab:
   topic: GH-900
-  title: "Exercise - Code with Codespaces and Visual Studio Code"
-  description: "Use GitHub Codespaces and Visual Studio Code to develop and run code in a cloud-based development environment."
+  title: Exercise - Code with Codespaces and Visual Studio Code
+  description: Use GitHub Codespaces and Visual Studio Code to develop and run code in a cloud-based development environment.
+  duration: 26 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - GitHub
+    - Visual Studio
+    - Visual Studio Code
 ---
 
 # Exercise - Code with Codespaces and Visual Studio Code
