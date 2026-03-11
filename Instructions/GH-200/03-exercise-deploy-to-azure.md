@@ -1,8 +1,14 @@
 ---
 lab:
   topic: GH-200
-  title: "Exercise - Create a workflow that deploys a web app to Azure"
-  description: "Learn how to create a Continuous Deployment (CD) workflow that automatically deploys your web application to Azure."
+  title: Exercise - Create a workflow that deploys a web app to Azure
+  description: Learn how to create a Continuous Deployment (CD) workflow that automatically
+    deploys your web application to Azure.
+  duration: 26 minutes
+  level: 300
+  islab: true
+  primarytopics:
+  - Azure
 ---
 
 # Exercise - Create a workflow that deploys a web app to Azure
