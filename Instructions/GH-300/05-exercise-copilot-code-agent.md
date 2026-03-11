@@ -1,8 +1,14 @@
 ---
 lab:
   topic: GH-300
-  title: "Expand your team with Copilot coding agent"
-  description: "Learn how to use GitHub Copilot's coding agent capabilities to enhance team productivity and tackle complex development tasks."
+  title: Expand your team with Copilot coding agent
+  description: Learn how to use GitHub Copilot's coding agent capabilities to enhance
+    team productivity and tackle complex development tasks.
+  duration: 24 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - GitHub
 ---
 
 # Expand your team with Copilot coding agent
