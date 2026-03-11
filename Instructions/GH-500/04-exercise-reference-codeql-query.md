@@ -1,8 +1,12 @@
 ---
 lab:
   topic: GH-500
-  title: "Exercise - Reference a CodeQL query"
-  description: "Learn how to reference and use CodeQL queries to perform advanced code security analysis on your repositories."
+  title: Exercise - Reference a CodeQL query
+  description: Learn how to reference and use CodeQL queries to perform advanced code
+    security analysis on your repositories.
+  duration: 24 minutes
+  level: 100
+  islab: true
 ---
 
 # Exercise - Reference a CodeQL query
