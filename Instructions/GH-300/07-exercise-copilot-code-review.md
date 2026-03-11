@@ -1,8 +1,14 @@
 ---
 lab:
   topic: GH-300
-  title: "GitHub Copilot code review"
-  description: "Learn how to use GitHub Copilot to assist with code reviews, identify potential issues, and improve code quality."
+  title: GitHub Copilot code review
+  description: Learn how to use GitHub Copilot to assist with code reviews, identify
+    potential issues, and improve code quality.
+  duration: 24 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - GitHub
 ---
 
 # GitHub Copilot code review
