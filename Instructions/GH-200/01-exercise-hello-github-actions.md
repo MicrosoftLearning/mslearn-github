@@ -1,8 +1,14 @@
 ---
 lab:
   topic: GH-200
-  title: "Exercise - Create and run a basic GitHub Actions workflow"
-  description: "Learn how to create and run GitHub Actions workflows to automate tasks, build projects, and run tests."
+  title: Exercise - Create and run a basic GitHub Actions workflow
+  description: Learn how to create and run GitHub Actions workflows to automate tasks,
+    build projects, and run tests.
+  duration: 30 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - GitHub
 ---
 
 # Exercise - Create and run a basic GitHub Actions workflow
