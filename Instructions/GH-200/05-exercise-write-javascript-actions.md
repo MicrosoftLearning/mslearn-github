@@ -1,8 +1,13 @@
 ---
 lab:
   topic: GH-200
-  title: "Exercise - Create a custom JavaScript GitHub action"
-  description: "Learn how to create custom GitHub Actions using JavaScript to extend automation capabilities and share reusable workflows."
+  title: Exercise - Create a custom JavaScript GitHub action
+  description: Learn how to create custom GitHub Actions using JavaScript to extend automation capabilities and share reusable workflows.
+  duration: 26 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - GitHub
 ---
 
 # Exercise - Create a custom JavaScript GitHub action
