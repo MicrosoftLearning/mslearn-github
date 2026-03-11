@@ -1,8 +1,11 @@
 ---
 lab:
   topic: GH-900
-  title: "Exercise - Communicate using Markdown"
-  description: "Organize ideas and collaborate using Markdown, a lightweight language for text formatting. Learn to use headings, lists, images, links, and more."
+  title: Exercise - Communicate using Markdown
+  description: Organize ideas and collaborate using Markdown, a lightweight language for text formatting. Learn to use headings, lists, images, links, and more.
+  duration: 60 minutes
+  level: 100
+  islab: true
 ---
 
 # Exercise - Communicate using Markdown
