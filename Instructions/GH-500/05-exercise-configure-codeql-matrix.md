@@ -1,8 +1,12 @@
 ---
 lab:
   topic: GH-500
-  title: "Exercise - Configure a CodeQL language matrix"
-  description: "Learn how to configure CodeQL analysis for multiple programming languages using a language matrix."
+  title: Exercise - Configure a CodeQL language matrix
+  description: Learn how to configure CodeQL analysis for multiple programming languages
+    using a language matrix.
+  duration: 24 minutes
+  level: 200
+  islab: true
 ---
 
 # Exercise - Configure a CodeQL language matrix
