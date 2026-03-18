@@ -1,8 +1,11 @@
 ---
 lab:
   topic: GH-500
-  title: "Exercise - Configure Dependabot security updates"
-  description: "Learn how to configure Dependabot to automatically update vulnerable dependencies and keep your repository secure."
+  title: Exercise - Configure Dependabot security updates
+  description: Learn how to configure Dependabot to automatically update vulnerable dependencies and keep your repository secure.
+  duration: 26 minutes
+  level: 100
+  islab: true
 ---
 
 # Exercise - Configure Dependabot security updates

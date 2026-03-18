@@ -1,8 +1,11 @@
 ---
 lab:
   topic: GH-900
-  title: "Exercise - Create your first pull request"
-  description: "Learn how to make your first contribution to open source. Follow step-by-step instructions to fork, clone, branch, commit, and create a pull request."
+  title: Exercise - Create your first pull request
+  description: Learn how to make your first contribution to open source. Follow step-by-step instructions to fork, clone, branch, commit, and create a pull request.
+  duration: 30 minutes
+  level: 100
+  islab: true
 ---
 
 # Exercise - Create your first pull request

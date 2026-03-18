@@ -1,8 +1,13 @@
 ---
 lab:
   topic: GH-100
-  title: "Exercise - Publish to a GitHub Packages registry"
-  description: "Learn how to publish and share your code packages using GitHub Packages, making your libraries available to others."
+  title: Exercise - Publish to a GitHub Packages registry
+  description: Learn how to publish and share your code packages using GitHub Packages, making your libraries available to others.
+  duration: 26 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - GitHub
 ---
 
 # Exercise - Publish to a GitHub Packages registry

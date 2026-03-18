@@ -1,8 +1,15 @@
 ---
 lab:
   topic: GH-300
-  title: "Develop with AI-powered code suggestions by using GitHub Copilot and VS Code"
-  description: "Learn how to use GitHub Copilot with Visual Studio Code to get AI-powered code suggestions, write code faster, and improve your productivity."
+  title: Develop with AI-powered code suggestions by using GitHub Copilot and VS Code
+  description: Learn how to use GitHub Copilot with Visual Studio Code to get AI-powered code suggestions, write code faster, and improve your productivity.
+  duration: 26 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - GitHub
+    - Visual Studio
+    - Visual Studio Code
 ---
 
 # Develop with AI-powered code suggestions by using GitHub Copilot and VS Code

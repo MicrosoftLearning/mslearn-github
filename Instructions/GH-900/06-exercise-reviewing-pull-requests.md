@@ -1,8 +1,11 @@
 ---
 lab:
   topic: GH-900
-  title: "Exercise - Reviewing pull requests"
-  description: "Learn how to effectively review pull requests, provide feedback, request changes, and approve code contributions."
+  title: Exercise - Reviewing pull requests
+  description: Learn how to effectively review pull requests, provide feedback, request changes, and approve code contributions.
+  duration: 26 minutes
+  level: 100
+  islab: true
 ---
 
 # Exercise - Reviewing pull requests
