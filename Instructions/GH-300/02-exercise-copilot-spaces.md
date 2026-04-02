@@ -8,6 +8,7 @@ lab:
   islab: true
   primarytopics:
     - GitHub
+    - Github Copilot
 ---
 
 # Scale institutional knowledge using Copilot Spaces
